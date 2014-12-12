@@ -5,10 +5,6 @@
 <a href="http://github.com/raindoll/AppleFarm/archive/game.zip">http://github.com/raindoll/AppleFarm/archive/game.zip<br></p>
 <p>32bit版：<br>
 <a href="http://github.com/raindoll/AppleFarm-x86-/archive/game.zip">http://github.com/raindoll/AppleFarm-x86-/archive/game.zip</p>
- 
-<p>画像：<br>
-<img src="./画像/titlepage.png" width="250" height="250" alt="スタート画面">
-<img src="./画像/gamepage.png" width="250" height="250" alt="ゲーム画面"></p>
 
 <p>操作方法：<br>
  ←：左へ　, →：右へ , s:ゲームスタート , r:リスタート, SHIFT+r:ランキング表示 , x:ランキングを閉じる</p>
